@@ -1,4 +1,4 @@
-<h1 aLign="center"> Hola, Soy Yeni Muñoz 👋>
+<h1 aLign="center"> Hola, Soy Yeni Muñoz 👋
 
 <img width="983" height="550" alt="Captura de pantalla 2026-01-05 131227" src="https://github.com/user-attachments/assets/430f58e6-4d04-4670-900c-b64253247b26" />
 

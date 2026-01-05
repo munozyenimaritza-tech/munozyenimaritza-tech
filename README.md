@@ -9,10 +9,10 @@ _____________________________________________________________________
 
 Sobre mi:
 
-- 🔍 Atención al detalle y pensamiento analítico  
-- 🤝 Buena comunicación y trabajo en equipo  
-- 🚀 Aprendizaje continuo y mejora constante  
-- 👩‍💻 Interés en automatización y calidad de software  
+ 🔍 Atención al detalle y pensamiento analítico  
+ 🤝 Buena comunicación y trabajo en equipo  
+ 🚀 Aprendizaje continuo y mejora constante  
+ 👩‍💻 Interés en automatización y calidad de software  
 
 <!--
 **munozyenimaritza-tech/munozyenimaritza-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

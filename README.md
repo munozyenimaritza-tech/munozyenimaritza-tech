@@ -1,17 +1,15 @@
-## Hola, Soy Yeni Muñoz 👋
-<img width="1584" height="396" alt="my banner" src="https://github.com/user-attachments/assets/a523959f-3f4a-4cf1-b61d-701297fd5125" />
+<h1 aLign="center"> Hola, Soy Yeni Muñoz 👋
+
+<img width="983" height="550" alt="Captura de pantalla 2026-01-05 131227" src="https://github.com/user-attachments/assets/430f58e6-4d04-4670-900c-b64253247b26" />
+
 
 <!--
 **munozyenimaritza-tech/munozyenimaritza-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sobre mi:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔍 Atención al detalle y pensamiento analítico  
+- 🤝 Buena comunicación y trabajo en equipo  
+- 🚀 Aprendizaje continuo y mejora constante  
+- 👩‍💻 Interés en automatización y calidad de software  
 -->
